@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-java_fa4c5626"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -15,11 +22,7 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "dio-java_fa4c5626",
-            // "args": [
-            //     "Christophe",
-            //     "15",
-            // ],
+            "projectName": "dio-java_fa4c5626"
         },
         {
             "type": "java",
