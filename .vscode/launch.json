@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "DIO-trilha-java-_5faf6dc7"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",
