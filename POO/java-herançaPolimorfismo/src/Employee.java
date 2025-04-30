@@ -9,7 +9,7 @@ public sealed abstract class Employee permits Manager,Salesman {
     private int age;
 
     private double salary;
-
+    
     public String getCode() {
         return code;
     }
